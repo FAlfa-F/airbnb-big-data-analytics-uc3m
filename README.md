@@ -25,7 +25,6 @@ The objective was to analyze a large-scale Airbnb dataset (300k+ listings) to ex
 4. Clear cultural and linguistic differences in guest expectations across markets.
 
 ## Repository Contents
-1. Big_Data_Final_Project_GR3.ipynb → Complete notebook with analysis and visualizations
-
-
+1. Airbnb Final Case - clean→ clean notebook with code
+   
 ⚠️ This project was developed for academic purposes. The dataset used is publicly available and has not been included in the repository due to size considerations.
